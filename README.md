@@ -23,6 +23,7 @@ Activate the module in Design / Layout / left & Right
 Link marketplace : https://www.clicshopping.org/forum/files/file/47-module-boxes-recently-visited/
 
 See forum for all informations
-![image](https://github.com/ClicShoppingOfficialModulesV3/modules_boxes_login/blob/master/ModuleInfosJson/visited.png)
+
+![image](https://github.com/ClicShoppingOfficialModulesV3/modules_boxes_recently_visited/blob/master/ModuleInfosJson/visited.png)
 
 
