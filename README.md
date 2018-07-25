@@ -20,7 +20,7 @@ http://monsite/myAdmin/modules.php?set=modules_boxes
 
 Activate the module in Design / Layout / left & Right
 
-Link marketplace : https://www.clicshopping.org/forum/files/file/47-module-boxes-recently-visited/
+Link marketplace : https://www.clicshopping.org/forum/files/file/55-modules-boxes-recently-visited/
 
 See forum for all informations
 
