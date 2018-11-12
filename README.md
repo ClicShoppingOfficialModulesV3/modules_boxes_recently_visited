@@ -24,6 +24,6 @@ Link marketplace : https://www.clicshopping.org/forum/files/file/55-modules-boxe
 
 See forum for all informations
 
-![image](https://github.com/ClicShoppingOfficialModulesV3/modules_boxes_recently_visited/blob/master/ModuleInfosJson/visited.png)
+![image](https://github.com/ClicShoppingOfficialModulesV3/modules_boxes_recently_visited/blob/master/ModuleInfosJson/image.png)
 
 
