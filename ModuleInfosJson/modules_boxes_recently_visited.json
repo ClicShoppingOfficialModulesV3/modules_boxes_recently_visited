@@ -3,6 +3,7 @@
   "type":       "boxe",
   "vendor":			"modules_boxes",
   "is_free":   "no",
+  "is_core":   "no",
   "website_link_to_sell" : "https://www.clicshopping.org/forum/files/file/55-modules-boxes-recently-visited/",
   "version":			1.0,
   "req_core_version":	3.0,
