@@ -1,0 +1,3 @@
+module_boxes_recently_visited_title = Souhaitez-vous activer la boxe Produit récemment visité ?
+module_boxes_recently_visited_description = Affiche une boxe sur Produit récemment visité votre boutique uniquement quand le client est connecté
+module_boxes_recently_visited_box_title = Récemment visité

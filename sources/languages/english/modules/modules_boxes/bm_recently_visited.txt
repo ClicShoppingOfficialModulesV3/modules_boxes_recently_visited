@@ -1,0 +1,3 @@
+module_boxes_recently_visited_title = Do you want to enable Product recently visited on your shop ?
+module_boxes_recently_visited_description = Display an Product recently visited box on your shop when the customer is connected
+module_boxes_recently_visited_box_title = Recently visited
